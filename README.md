@@ -10,6 +10,8 @@
 [![Email](https://img.shields.io/badge/Email-kminsoo0929%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kminsoo0929@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-neodle-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neodle)
 
+**한국어** · [English](README.en.md)
+
 </div>
 
 ---
