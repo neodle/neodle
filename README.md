@@ -18,8 +18,6 @@ so they can actually run where they are needed.
 
 ## 🙋 About Me
 
-- 🎓 **B.S. candidate in Medical Artificial Intelligence, Konyang University** (graduating Feb 2027)<br/>
-  Trained in deep learning, computer vision, and image analysis. Working with medical and real-world images taught me that a model has to be accurate *and* practical enough to deploy.
 - 🔬 **Summer Research Intern, ETRI** (Jul – Aug 2026)
 - 📝 **3** conference papers (co-first author) · 🏆 **Excellent Paper Award** for a lightweight generative model
 - 🌱 Currently looking for **M.S. research opportunities in efficient machine intelligence**
