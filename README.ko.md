@@ -65,7 +65,7 @@
 - 속도는 빨라지고 PSNR 20.21 → **21.11**, SSIM 0.816 → **0.852**로 품질 지표도 향상
 
 ### 3. YOLOv11 기반 화재 다중 분류 탐지 모델 설계 및 성능 평가
-`2025 KAICTS 추계학술대회` · 공동 제1저자 · [💻 Code](https://github.com/neodle/Real-Time-stage-aware--wildfire-progression-detection-based-YOLOv11)
+`2025 KAICTS 추계학술대회` · 공동 제1저자 · [💻 Code](https://github.com/neodle/Wildfire-Progression-Detection)
 
 > 기존 fire/smoke 이진 분류를 넘어 **화재 규모·연기 밀도별 5-class 탐지**
 - 공개 데이터 정제 후 3,258장을 전부 수동 라벨링해 고품질 데이터셋 구축
@@ -80,7 +80,7 @@
 | 🛏️ [**Ulcer-Prevention-AI-System**](https://github.com/neodle/Ulcer-Prevention-AI-System) | 자세 추정 + 32채널 압력 센서로 욕창 위험을 실시간 모니터링. GCN 기반 keypoint 보정으로 **PCKh@0.5 0.628 → 0.819** | YOLO-Pose, GCN, Arduino |
 | 🌀 [**Lightweight-CycleGAN**](https://github.com/neodle/Lightweight-CycleGAN) | 경량화 CycleGAN 색상화 (KAICTS 우수 발표 논문상) | PyTorch |
 | 🖼️ [**FLUX Localization Pipeline**](https://github.com/neodle/flux-localization-pipeline-1) | Grounding DINO + SAM + FLUX 다중 LoRA 기반 객체 자동 현지화 | FLUX, SAM, LoRA |
-| 🔥 [**Wildfire Detection (YOLOv11)**](https://github.com/neodle/Real-Time-stage-aware--wildfire-progression-detection-based-YOLOv11) | 화재 규모·연기 밀도 기반 다중 분류 실시간 탐지 | YOLOv11 |
+| 🔥 [**Wildfire Detection (YOLOv11)**](https://github.com/neodle/Wildfire-Progression-Detection) | 화재 규모·연기 밀도 기반 다중 분류 실시간 탐지 | YOLOv11 |
 | 🎨 [**Gray-to-Color (pix2pix)**](https://github.com/neodle/Gray-to-color-colorization-pix2pix-based) | U-Net + PatchGAN 기반 흑백 사진 색상화 및 Flask 웹 데모 | PyTorch, Flask |
 | ☁️ [**NCP LMS Project**](https://github.com/neodle/NCP-Yuhan-univ.LMS-Project) | NAVER Cloud 서비스를 활용한 나라장터 공공조달 업무 LMS | NCP, HTML |
 
@@ -128,6 +128,14 @@
 | 수상 | 내용 | 기관 | 날짜 |
 |---|---|---|:---:|
 | 🥇 **우수 발표 논문상** | *CycleGAN기반 색상화 성능 유지와 처리 속도 향상* | 한국인공지능융합기술학회 (KAICTS) | 2025.11 |
+
+---
+
+## 🎓 Coursework
+
+| 강의 | 강사 | 주최 | 주요 내용 |
+|---|---|---|---|
+| **PyTorch 고급 특강** | [Youngwan Lee](https://github.com/youngwanLEE) — ETRI 선임연구원 · KAIST MLAI 박사과정 | ETRI (사내 강의) | 머신러닝, Transformer, Vision Transformer (ViT) |
 
 ---
 
