@@ -86,23 +86,6 @@
 
 ---
 
-## 📚 Paper Notes: Efficient Machine Intelligence (2026)
-
-효율적인 AI에 관한 최신 연구를 공부하고 있습니다. **고려대학교 [Efficient Machine Intelligence Lab](https://emilab-ku.github.io/)의 2026년 논문**을 정리했습니다.<br/>
-👉 **전체 노트: [paper-reviews/](paper-reviews/README.md)** (영문)
-
-| 논문 | 학회 | 주제 |
-|---|---|---|
-| [ZOO-Prune: Training-Free Token Pruning via Zeroth-Order Gradient Estimation in VLMs](paper-reviews/README.md#zoo-prune) | CVPR 2026 | Token pruning · VLM |
-| [VisRef: Visual Refocusing while Thinking Improves Test-Time Scaling in MLRMs](paper-reviews/README.md#visref) | CVPR 2026 | Test-time scaling · Multimodal reasoning |
-| [Real-Time Visual Attribution Streaming in Thinking Model](paper-reviews/README.md#visual-attribution) | ICML 2026 **Spotlight** | Amortized attribution · Interpretability |
-| [Block Recursive Transformers for Structured Parameter Sharing](paper-reviews/README.md#block-recursive) | EMNLP 2026 Findings | Parameter sharing · Compression |
-| [MD-SNN: Membrane Potential-aware Distillation on Quantized SNN](paper-reviews/README.md#md-snn) | DATE 2026 | Quantization · Spiking NN |
-| [MC-GRPO: Median-Centered GRPO for Small-Rollout RL](paper-reviews/README.md#mc-grpo) | Preprint | Efficient RL for LLMs |
-| [SkillRet: A Large-Scale Benchmark for Skill Retrieval in LLM Agents](paper-reviews/README.md#skillret) | Preprint | Agentic AI · Retrieval |
-
----
-
 ## 🛠️ Tech Stack
 
 **AI / Vision**<br/>

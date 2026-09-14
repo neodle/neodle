@@ -86,23 +86,6 @@ In most of my projects, the question that interested me most was **"How much can
 
 ---
 
-## 📚 Paper Notes: Efficient Machine Intelligence (2026)
-
-I'm studying recent work on efficient AI. Below are my notes on the **2026 papers from the [Efficient Machine Intelligence Lab](https://emilab-ku.github.io/) at Korea University**.<br/>
-👉 **Full notes: [paper-reviews/](paper-reviews/README.md)**
-
-| Paper | Venue | Topic |
-|---|---|---|
-| [ZOO-Prune: Training-Free Token Pruning via Zeroth-Order Gradient Estimation in VLMs](paper-reviews/README.md#zoo-prune) | CVPR 2026 | Token pruning · VLM |
-| [VisRef: Visual Refocusing while Thinking Improves Test-Time Scaling in MLRMs](paper-reviews/README.md#visref) | CVPR 2026 | Test-time scaling · Multimodal reasoning |
-| [Real-Time Visual Attribution Streaming in Thinking Model](paper-reviews/README.md#visual-attribution) | ICML 2026 **Spotlight** | Amortized attribution · Interpretability |
-| [Block Recursive Transformers for Structured Parameter Sharing](paper-reviews/README.md#block-recursive) | EMNLP 2026 Findings | Parameter sharing · Compression |
-| [MD-SNN: Membrane Potential-aware Distillation on Quantized SNN](paper-reviews/README.md#md-snn) | DATE 2026 | Quantization · Spiking NN |
-| [MC-GRPO: Median-Centered GRPO for Small-Rollout RL](paper-reviews/README.md#mc-grpo) | Preprint | Efficient RL for LLMs |
-| [SkillRet: A Large-Scale Benchmark for Skill Retrieval in LLM Agents](paper-reviews/README.md#skillret) | Preprint | Agentic AI · Retrieval |
-
----
-
 ## 🛠️ Tech Stack
 
 **AI / Vision**<br/>
