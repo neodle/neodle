@@ -18,9 +18,28 @@ so they can actually run where they are needed.
 
 ## 🙋 About Me
 
-- 🔬 **Summer Research Intern, ETRI** (Jul – Aug 2026)
+- 🔬 **Summer Research Trainee, ETRI** (Jul 1 – Aug 31, 2026)
+- 🧪 **Finalist, KPS Undergraduate Physics Research Competition** (finals in Oct 2026)
 - 📝 **3** conference papers (co-first author) · 🏆 **Excellent Paper Award** for a lightweight generative model
 - 🌱 Currently looking for **M.S. research opportunities in efficient machine intelligence**
+
+---
+
+## 💼 Experience
+
+### 🔬 Summer Research Trainee · ETRI
+`Jul 1, 2026 – Aug 31, 2026` · Electronics and Telecommunications Research Institute · X-ray & Terahertz Components Research Section · Daejeon, Korea
+
+> **Medical X-ray imaging research through Monte Carlo simulation** with **OpenGATE (Geant4)**
+- **Simulation pipeline**: built baseline SPECT (Tc-99m) and X-ray CT simulations (source → phantom → detector → ROOT/image output), migrated OpenGATE v9 macros to v10 Python, and ran large-scale jobs on a GPU server
+- **Contrast-enhanced mammography (K-edge subtraction)**: simulated dual-energy (LE/HE) iodine imaging with SpekPy X-ray spectra, and compared iodine CNR across tube/filter conditions and breast phantom thicknesses (20–50 mm)
+- **X-ray transmission & scatter analysis**: measured Mo/Mo beam transmission and scatter through Gd₂O₃ and PETP/Gd₂O₃ stacked plate structures
+- **Photon-counting CT for coronary artery disease**: built an XCAT-based heart and coronary artery phantom (iodine-enhanced blood, calcified plaque) and a PCCT scanner model to evaluate conventional, U-Net-based, and physics-guided material decomposition
+
+### ☁️ Co-op Intern · Cloud Square Co., Ltd.
+`Jul 23, 2025 – Aug 22, 2025` · 160 hours · Standard Field Practicum Semester (Co-op), 4 credits
+- Cloud track: cloud configuration, architecture design, and cloud-based operations
+- Carried out on-the-job tasks as a team project and presented the results
 
 ---
 
@@ -49,7 +68,8 @@ In most of my projects, the question that interested me most was **"How much can
 ## 📝 Publications
 
 ### 1. Automatic Object Transformation in Image via FLUX Inpainting with Multi-LoRA Condition Decomposition
-`KIBME 2026 Summer Conference` · Co-first author · In collaboration with KBS · [💻 Code](https://github.com/neodle/flux-localization-pipeline-1)
+**Minsoo Kang**†, Ayoung Jeong†, Namho Kim (KBS), Junhwa Kim‡<br/>
+`KIBME 2026 Summer Conference` (The Korean Institute of Broadcast and Media Engineers) · Co-first author · In collaboration with KBS · [💻 Code](https://github.com/neodle/flux-localization-pipeline-1)
 
 > A pipeline that automates **visual localization** of OTT content (replacing signs, logos, and products)
 - Text-prompted object detection with **Grounding DINO** → pixel-level masks with **SAM**
@@ -57,7 +77,8 @@ In most of my projects, the question that interested me most was **"How much can
 - Preserves the scene's lighting and structure along with the object's identity, and stays stable under occlusion
 
 ### 2. Maintaining Colorization Quality While Improving Speed with a Lightweight CycleGAN 🏆
-`KAICTS 2025 Fall Conference` · Co-first author · **Excellent Paper Award** · [💻 Code](https://github.com/neodle/Lightweight-CycleGAN)
+**Minsoo Kang**† et al. (4 authors, Konyang University)<br/>
+`KAICTS 2025 Fall Conference` (Korea Artificial-Intelligence Convergence Technology Society) · Nov 2025 · Co-first author · **Excellent Paper Award** · [💻 Code](https://github.com/neodle/Lightweight-CycleGAN)
 
 > Grayscale image colorization that **keeps quality while running faster** through a lighter generator
 - Reduced residual blocks (9 → 6 → 4) and channel width (1.0 → 0.25), plus depthwise-convolution experiments
@@ -65,11 +86,14 @@ In most of my projects, the question that interested me most was **"How much can
 - Quality metrics improved as well: PSNR 20.21 → **21.11**, SSIM 0.816 → **0.852**
 
 ### 3. Design and Performance Evaluation of a YOLOv11-based Multi-class Fire Detection Model
-`KAICTS 2025 Fall Conference` · Co-first author · [💻 Code](https://github.com/neodle/Wildfire-Progression-Detection)
+**Minsoo Kang**† et al. (3 authors, Konyang University)<br/>
+`KAICTS 2025 Fall Conference` (Korea Artificial-Intelligence Convergence Technology Society) · Nov 2025 · Co-first author · [💻 Code](https://github.com/neodle/Wildfire-Progression-Detection)
 
 > Going beyond binary fire/smoke detection to **5 classes by fire size and smoke density**
 - Cleaned a public dataset and hand-labeled all 3,258 images to build a high-quality dataset
 - Mean **mAP@50 ≈ 0.8** at **53–67 FPS**, fast enough for real-time monitoring
+
+<sub>† equal contribution (co-first author) · ‡ corresponding author</sub>
 
 ---
 
@@ -110,7 +134,8 @@ In most of my projects, the question that interested me most was **"How much can
 
 | Award | Paper | Organization | Date |
 |---|---|---|:---:|
-| 🥇 **Excellent Paper Award** | *Maintaining Colorization Quality While Improving Speed with a Lightweight CycleGAN* | Korea Artificial-Intelligence Convergence Technology Society (KAICTS) | Nov 2025 |
+| 🥇 **Excellent Paper Award** | *Maintaining Colorization Quality While Improving Speed with a Lightweight CycleGAN* | Korea Artificial-Intelligence Convergence Technology Society (KAICTS) | Nov 15, 2025 |
+| 🧪 **Finalist** (finals in Oct 2026) | *[Undergraduate Physics Research Competition](https://www.kps.or.kr/content/def/view.php?ft=29)* | Korean Physical Society (KPS) | Oct 2026 |
 
 ---
 
@@ -130,9 +155,9 @@ In most of my projects, the question that interested me most was **"How much can
 
 | Certification | Full Name | Issuer | Date |
 |:---:|---|---|:---:|
-| **NCP** | NAVER Cloud Platform Certified Professional | NAVER Cloud | Feb 2026 |
-| **NCA** | NAVER Cloud Platform Certified Associate | NAVER Cloud | May 2025 |
-| **ADsP** | Advanced Data Analytics Semi-Professional | Korea Data Agency | Mar 2025 |
+| **NCP** | NAVER Cloud Platform Certified Professional | NAVER Cloud | Feb 5, 2026 |
+| **NCA** | NAVER Cloud Platform Certified Associate | NAVER Cloud | May 23, 2025 |
+| **ADsP** | Advanced Data Analytics Semi-Professional | Korea Data Agency | Mar 21, 2025 |
 
 ---
 

@@ -18,9 +18,28 @@
 
 ## 🙋 About Me
 
-- 🔬 **ETRI 하계 연구연수생** (2026.07 ~ 2026.08)
+- 🔬 **ETRI 하계 연구연수생** (2026.07.01 ~ 2026.08.31)
+- 🧪 **한국물리학회 학부생 물리연구 경진대회 본선 진출** (2026년 10월 본선)
 - 📝 학술대회 논문 **3편** (공동 제1저자) · 🏆 경량 생성 모델 연구로 **우수 발표 논문상** 수상
 - 🌱 **효율적인 머신러닝(Efficient AI) 분야 석사 연구 기회**를 찾고 있습니다
+
+---
+
+## 💼 Experience
+
+### 🔬 한국전자통신연구원(ETRI) 하계 연구연수생
+`2026.07.01 ~ 2026.08.31` · 소재부품연구본부 엑스선-테라헤르츠 부품 연구실 · 대전 본원
+
+> **OpenGATE (Geant4)** 기반 **몬테카를로 시뮬레이션으로 의료 X선 영상** 연구
+- **시뮬레이션 파이프라인**: SPECT(Tc-99m)·X선 CT 베이스라인 시뮬레이션 구축 (선원 → 팬텀 → 검출기 → ROOT/영상 출력), OpenGATE v9 매크로를 v10 Python으로 변환, GPU 서버에서 대규모 시뮬레이션 수행
+- **조영증강 유방촬영 (K-edge subtraction)**: SpekPy X선 스펙트럼으로 이중 에너지(LE/HE) 아이오딘 영상을 모사하고, 관전압·필터 조건과 유방 팬텀 두께(20~50 mm)에 따른 아이오딘 CNR 비교
+- **X선 투과·산란 분석**: Gd₂O₃ 단일 판 및 PETP/Gd₂O₃ 적층 구조에서 Mo/Mo X선의 투과·산란 특성 측정
+- **관상동맥질환 photon-counting CT**: XCAT 기반 심장·관상동맥 팬텀(아이오딘 조영 혈액, 석회화 플라그)과 PCCT 스캐너 모델을 구축해 conventional · U-Net 기반 · physics-guided 물질분해(material decomposition) 성능 평가
+
+### ☁️ 클라우드스퀘어(주) 현장실습생
+`2025.07.23 ~ 2025.08.22` · 총 160시간 · 표준 현장실습학기제(Co-op, 직무체험형) 4학점
+- 클라우드 직무: 클라우드 설정·구조 설계 및 클라우드 기반 업무 수행
+- 현업 업무를 팀 프로젝트로 수행하고 결과 발표
 
 ---
 
@@ -49,6 +68,7 @@
 ## 📝 Publications
 
 ### 1. FLUX 인페인팅과 다중 LoRA 조건 분리를 이용한 영상 객체 자동 변환
+**강민수**†, 정아영†, 김남호(KBS), 김준화‡<br/>
 `2026 한국방송·미디어공학회 하계학술대회` · 공동 제1저자 · KBS 협업 · [💻 Code](https://github.com/neodle/flux-localization-pipeline-1)
 
 > OTT 콘텐츠의 **시각 현지화**(간판·로고·제품 교체)를 자동화하는 파이프라인
@@ -57,7 +77,8 @@
 - 배경의 조명·구조는 유지하면서 객체 정체성까지 보존, 가려짐(Occlusion) 상황에서도 안정적인 결과
 
 ### 2. CycleGAN 기반 색상화 성능 유지와 처리 속도 향상 🏆
-`2025 KAICTS 추계학술대회` · 공동 제1저자 · **우수 발표 논문상** · [💻 Code](https://github.com/neodle/Lightweight-CycleGAN)
+**강민수**†, 강준혁†, 장승기†, 김준화 (건양대학교)<br/>
+`2025 한국인공지능융합기술학회(KAICTS) 추계학술대회` · 2025.11 · 공동 제1저자 · **우수 발표 논문상** · [💻 Code](https://github.com/neodle/Lightweight-CycleGAN)
 
 > 생성기 구조를 경량화해 **품질은 유지하고 속도는 올린** 흑백 이미지 색상화
 - Residual block 수(9→6→4)와 채널 폭(1.0→0.25) 축소, Depthwise Conv 실험
@@ -65,11 +86,14 @@
 - 속도는 빨라지고 PSNR 20.21 → **21.11**, SSIM 0.816 → **0.852**로 품질 지표도 향상
 
 ### 3. YOLOv11 기반 화재 다중 분류 탐지 모델 설계 및 성능 평가
-`2025 KAICTS 추계학술대회` · 공동 제1저자 · [💻 Code](https://github.com/neodle/Wildfire-Progression-Detection)
+**강민수**†, 장근혁†, 김한섭 (건양대학교)<br/>
+`2025 한국인공지능융합기술학회(KAICTS) 추계학술대회` · 2025.11 · 공동 제1저자 · [💻 Code](https://github.com/neodle/Wildfire-Progression-Detection)
 
 > 기존 fire/smoke 이진 분류를 넘어 **화재 규모·연기 밀도별 5-class 탐지**
 - 공개 데이터 정제 후 3,258장을 전부 수동 라벨링해 고품질 데이터셋 구축
 - 평균 **mAP@50 ≈ 0.8**, **53~67 FPS**로 실시간 탐지 성능 확보
+
+<sub>† 공동 제1저자 · ‡ 교신저자</sub>
 
 ---
 
@@ -110,7 +134,8 @@
 
 | 수상 | 내용 | 기관 | 날짜 |
 |---|---|---|:---:|
-| 🥇 **우수 발표 논문상** | *CycleGAN기반 색상화 성능 유지와 처리 속도 향상* | 한국인공지능융합기술학회 (KAICTS) | 2025.11 |
+| 🥇 **우수 발표 논문상** | *CycleGAN기반 색상화 성능 유지와 처리 속도 향상* | 한국인공지능융합기술학회 (KAICTS) | 2025.11.15 |
+| 🧪 **본선 진출** (2026.10 본선) | *[학부생 물리연구 경진대회](https://www.kps.or.kr/content/def/view.php?ft=29)* | 한국물리학회 (KPS) | 2026.10 |
 
 ---
 
@@ -130,9 +155,9 @@
 
 | 자격증 | 정식 명칭 | 발급 기관 | 취득일 |
 |:---:|---|---|:---:|
-| **NCP** | NAVER Cloud Platform Certified Professional | NAVER Cloud | 2026.02 |
-| **NCA** | NAVER Cloud Platform Certified Associate | NAVER Cloud | 2025.05 |
-| **ADsP** | 데이터분석준전문가 (Advanced Data Analytics Semi-Professional) | 한국데이터산업진흥원 | 2025.03 |
+| **NCP** | NAVER Cloud Platform Certified Professional | NAVER Cloud | 2026.02.05 |
+| **NCA** | NAVER Cloud Platform Certified Associate | NAVER Cloud | 2025.05.23 |
+| **ADsP** | 데이터분석준전문가 (Advanced Data Analytics Semi-Professional) | 한국데이터산업진흥원 | 2025.03.21 |
 
 ---
 
