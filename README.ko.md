@@ -118,7 +118,7 @@
 
 | 강의 | 강사 | 주최 | 주요 내용 |
 |---|---|---|---|
-| **PyTorch 고급 특강** | [Youngwan Lee](https://github.com/youngwanLEE) — ETRI 선임연구원 · KAIST MLAI 박사과정 | ETRI (사내 강의) | 머신러닝, Transformer, Vision Transformer (ViT) |
+| **PyTorch 고급 특강** | [Youngwan Lee](https://github.com/youngwanLEE) — ETRI 선임연구원 · KAIST MLAI 박사과정 | ETRI | 머신러닝, Transformer, Vision Transformer (ViT) |
 
 ---
 

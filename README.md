@@ -118,7 +118,7 @@ In most of my projects, the question that interested me most was **"How much can
 
 | Course | Instructor | Host | Topics |
 |---|---|---|---|
-| **PyTorch Advanced Special Lecture** | [Youngwan Lee](https://github.com/youngwanLEE) — Senior Researcher at ETRI · Ph.D. student, MLAI @ KAIST | ETRI (internal lecture) | Machine learning, Transformer, Vision Transformer (ViT) |
+| **PyTorch Advanced Special Lecture** | [Youngwan Lee](https://github.com/youngwanLEE) — Senior Researcher at ETRI · Ph.D. student, MLAI @ KAIST | ETRI | Machine learning, Transformer, Vision Transformer (ViT) |
 
 ---
 
