@@ -37,7 +37,7 @@ so they can actually run where they are needed.
 - **Photon-counting CT for coronary artery disease**: built an XCAT-based heart and coronary artery phantom (iodine-enhanced blood, calcified plaque) and a PCCT scanner model to evaluate conventional, U-Net-based, and physics-guided material decomposition
 
 ### ☁️ Co-op Intern · Cloud Square Co., Ltd.
-`Jul 23, 2025 – Aug 22, 2025` · 160 hours · Standard Field Practicum Semester (Co-op), 4 credits
+`Jul 23, 2025 – Aug 22, 2025` · 160 hours
 - Cloud track: cloud configuration, architecture design, and cloud-based operations
 - Carried out on-the-job tasks as a team project and presented the results
 
