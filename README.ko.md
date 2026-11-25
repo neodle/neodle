@@ -1,11 +1,8 @@
 <div align="center">
 
-# 안녕하세요, 강민수입니다 👋
+# 안녕하세요, 강민수입니다
 
 ### Efficient AI · Model Compression · Computer Vision
-
-딥러닝 모델을 **더 작고, 더 빠르게, 그러면서도 정확하게** 만들어<br/>
-실제로 필요한 곳에서 돌아가게 하는 데 관심이 있습니다.
 
 [![Email](https://img.shields.io/badge/Email-kminsoo0929%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kminsoo0929@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-neodle-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neodle)
@@ -16,10 +13,10 @@
 
 ---
 
-## 🙋 About Me
+##  About Me
 
-- 🔬 **ETRI 하계 연구연수생** (2026.07.01 ~ 2026.08.31)
-- 🧪 **한국물리학회 학부생 물리연구 경진대회 본선 진출** (2026년 10월 본선)
+- **ETRI 하계 연구연수생** (2026.07.01 ~ 2026.08.31)
+- 🧪 **한국물리학회 학부생 물리연구 경진대회 본선 진출** (2026년 10)
 - 📝 학술대회 논문 **3편** (공동 제1저자) · 🏆 경량 생성 모델 연구로 **우수 발표 논문상** 수상
 - 🌱 **효율적인 머신러닝(Efficient AI) 분야 석사 연구 기회**를 찾고 있습니다
 
