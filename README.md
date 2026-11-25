@@ -20,7 +20,7 @@ so they can actually run where they are needed.
 
 - **Summer Research Trainee, ETRI** (Jul 1 – Aug 31, 2026)
 - **Finalist, KPS Undergraduate Physics Research Competition** (finals in Oct 2026)
-- **3** conference papers (co-first author) · 🏆 **Excellent Paper Award** for a lightweight generative model
+- **3** conference papers (co-first author) · **Excellent Paper Award** for a lightweight generative model
 - Currently looking for **M.S. research opportunities in efficient machine intelligence**
 
 ---
