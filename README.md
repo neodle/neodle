@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Minsoo Kang 👋
+# Hi, I'm Minsoo Kang 
 
 ### Efficient AI · Model Compression · Computer Vision
 
@@ -16,18 +16,18 @@ so they can actually run where they are needed.
 
 ---
 
-## 🙋 About Me
+## About Me
 
-- 🔬 **Summer Research Trainee, ETRI** (Jul 1 – Aug 31, 2026)
-- 🧪 **Finalist, KPS Undergraduate Physics Research Competition** (finals in Oct 2026)
-- 📝 **3** conference papers (co-first author) · 🏆 **Excellent Paper Award** for a lightweight generative model
-- 🌱 Currently looking for **M.S. research opportunities in efficient machine intelligence**
+- **Summer Research Trainee, ETRI** (Jul 1 – Aug 31, 2026)
+- **Finalist, KPS Undergraduate Physics Research Competition** (finals in Oct 2026)
+- **3** conference papers (co-first author) · 🏆 **Excellent Paper Award** for a lightweight generative model
+- Currently looking for **M.S. research opportunities in efficient machine intelligence**
 
 ---
 
-## 💼 Experience
+## Experience
 
-### 🔬 Summer Research Trainee · ETRI
+### Summer Research Trainee · ETRI
 `Jul 1, 2026 – Aug 31, 2026` · Electronics and Telecommunications Research Institute · X-ray & Terahertz Components Research Section · Daejeon, Korea
 
 > **Medical X-ray imaging research through Monte Carlo simulation** with **OpenGATE (Geant4)**
@@ -43,7 +43,7 @@ so they can actually run where they are needed.
 
 ---
 
-## 🎯 Research Interests
+## Research Interests
 
 - **Model compression**: pruning, quantization, and lightweight architecture design
 - **Efficient vision & multimodal models**: token pruning and faster inference for VLMs and generative models
@@ -52,7 +52,7 @@ so they can actually run where they are needed.
 
 ---
 
-## ⚡ Why Efficient AI?
+## Why Efficient AI?
 
 In most of my projects, the question that interested me most was **"How much can we cut while keeping quality?"**
 
@@ -65,7 +65,7 @@ In most of my projects, the question that interested me most was **"How much can
 
 ---
 
-## 📝 Publications
+## Publications
 
 ### 1. Automatic Object Transformation in Image via FLUX Inpainting with Multi-LoRA Condition Decomposition
 **Minsoo Kang**†, Ayoung Jeong†, Namho Kim (KBS), Junhwa Kim‡<br/>
@@ -97,20 +97,20 @@ In most of my projects, the question that interested me most was **"How much can
 
 ---
 
-## 🚀 Projects
+## Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| 🛏️ [**Ulcer-Prevention-AI-System**](https://github.com/neodle/Ulcer-Prevention-AI-System) | Real-time pressure ulcer risk monitoring with pose estimation and a 32-channel pressure sensor. GCN keypoint refinement raised **PCKh@0.5 from 0.628 to 0.819** | YOLO-Pose, GCN, Arduino |
-| 🌀 [**Lightweight-CycleGAN**](https://github.com/neodle/Lightweight-CycleGAN) | Lightweight CycleGAN colorization (KAICTS Excellent Paper Award) | PyTorch |
-| 🖼️ [**FLUX Localization Pipeline**](https://github.com/neodle/flux-localization-pipeline-1) | Automatic object localization with Grounding DINO + SAM + FLUX multi-LoRA | FLUX, SAM, LoRA |
-| 🔥 [**Wildfire Detection (YOLOv11)**](https://github.com/neodle/Wildfire-Progression-Detection) | Real-time multi-class detection by fire size and smoke density | YOLOv11 |
-| 🎨 [**Gray-to-Color (pix2pix)**](https://github.com/neodle/Gray-to-color-colorization-pix2pix-based) | Grayscale photo colorization with a U-Net + PatchGAN, plus a Flask web demo | PyTorch, Flask |
-| ☁️ [**NCP LMS Project**](https://github.com/neodle/NCP-Yuhan-univ.LMS-Project) | LMS built on NAVER Cloud services to streamline public procurement on the Nara Marketplace | NCP, HTML |
+|  [**Ulcer-Prevention-AI-System**](https://github.com/neodle/Ulcer-Prevention-AI-System) | Real-time pressure ulcer risk monitoring with pose estimation and a 32-channel pressure sensor. GCN keypoint refinement raised **PCKh@0.5 from 0.628 to 0.819** | YOLO-Pose, GCN, Arduino |
+|  [**Lightweight-CycleGAN**](https://github.com/neodle/Lightweight-CycleGAN) | Lightweight CycleGAN colorization (KAICTS Excellent Paper Award) | PyTorch |
+|  [**FLUX Localization Pipeline**](https://github.com/neodle/flux-localization-pipeline-1) | Automatic object localization with Grounding DINO + SAM + FLUX multi-LoRA | FLUX, SAM, LoRA |
+|  [**Wildfire Detection (YOLOv11)**](https://github.com/neodle/Wildfire-Progression-Detection) | Real-time multi-class detection by fire size and smoke density | YOLOv11 |
+|  [**Gray-to-Color (pix2pix)**](https://github.com/neodle/Gray-to-color-colorization-pix2pix-based) | Grayscale photo colorization with a U-Net + PatchGAN, plus a Flask web demo | PyTorch, Flask |
+|  [**NCP LMS Project**](https://github.com/neodle/NCP-Yuhan-univ.LMS-Project) | LMS built on NAVER Cloud services to streamline public procurement on the Nara Marketplace | NCP, HTML |
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **AI / Vision**<br/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -130,16 +130,15 @@ In most of my projects, the question that interested me most was **"How much can
 
 ---
 
-## 🏆 Awards
+##  Awards
 
 | Award | Paper | Organization | Date |
 |---|---|---|:---:|
-| 🥇 **Excellent Paper Award** | *Maintaining Colorization Quality While Improving Speed with a Lightweight CycleGAN* | Korea Artificial-Intelligence Convergence Technology Society (KAICTS) | Nov 15, 2025 |
-| 🧪 **Finalist** (finals in Oct 2026) | *[Undergraduate Physics Research Competition](https://www.kps.or.kr/content/def/view.php?ft=29)* | Korean Physical Society (KPS) | Oct 2026 |
+|  **Excellent Paper Award** | *Maintaining Colorization Quality While Improving Speed with a Lightweight CycleGAN* | Korea Artificial-Intelligence Convergence Technology Society (KAICTS) | Nov 15, 2025 |
 
 ---
 
-## 🎓 Coursework
+##  Coursework
 
 | Course | Instructor | Host | Topics |
 |---|---|---|---|
@@ -147,7 +146,7 @@ In most of my projects, the question that interested me most was **"How much can
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 ![NCP](https://img.shields.io/badge/NCP-NAVER%20Cloud%20Professional-03C75A?style=for-the-badge&logo=naver&logoColor=white)
 ![NCA](https://img.shields.io/badge/NCA-NAVER%20Cloud%20Associate-03C75A?style=for-the-badge&logo=naver&logoColor=white)
