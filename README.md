@@ -36,7 +36,7 @@ so they can actually run where they are needed.
 - **X-ray transmission & scatter analysis**: measured Mo/Mo beam transmission and scatter through Gd₂O₃ and PETP/Gd₂O₃ stacked plate structures
 - **Photon-counting CT for coronary artery disease**: built an XCAT-based heart and coronary artery phantom (iodine-enhanced blood, calcified plaque) and a PCCT scanner model to evaluate conventional, U-Net-based, and physics-guided material decomposition
 
-### ☁️ Co-op Intern · Cloud Square Co., Ltd.
+### Co-op Intern · Cloud Square Co., Ltd.
 `Jul 23, 2025 – Aug 22, 2025` · 160 hours
 - Cloud track: cloud configuration, architecture design, and cloud-based operations
 - Carried out on-the-job tasks as a team project and presented the results
@@ -49,19 +49,6 @@ so they can actually run where they are needed.
 - **Efficient vision & multimodal models**: token pruning and faster inference for VLMs and generative models
 - **Accuracy–efficiency trade-offs**: keeping quality while cutting parameters, FLOPs, and latency for real-time and edge deployment
 - **Applications**: medical and visual AI, where compute and latency budgets really matter
-
----
-
-## Why Efficient AI?
-
-In most of my projects, the question that interested me most was **"How much can we cut while keeping quality?"**
-
-| Work | What I made lighter / faster | Result |
-|---|---|---|
-| 🌀 **Lightweight CycleGAN** | Reduced residual blocks (9 → 4), scaled channel width, tried depthwise conv | **Params −52%**, **FLOPs −55%**, **~1.6× FPS**, with PSNR and SSIM also improved |
-| 🔥 **YOLOv11 Wildfire Detection** | Real-time multi-class detector design | **53–67 FPS** at mAP@50 ≈ 0.8 |
-| 🛏️ **Ulcer-Prevention-AI** | Added a small GCN refinement stage on top of YOLO-Pose | PCKh@0.5 **0.628 → 0.819** at almost no speed cost (49.91 → 49.89 FPS) |
-| 🖼️ **FLUX Localization** | Parameter-efficient LoRA adapters instead of full fine-tuning, with a few-step (6-step) diffusion model | Object transformation with no full-model fine-tuning |
 
 ---
 
